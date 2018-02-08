@@ -1,0 +1,2 @@
+# speech_spoofing_database
+our_database_with_speech_sintesys
